@@ -1,0 +1,23 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Keith Davey
+layout_spectrum: 0.424928130581975
+typography_spectrum: 0.6529576156754047
+color:
+  brandStrength: 0.8793494391720742
+  lightness: 0.8376774017233402
+  saturation: 0.5582670399453491
+  rhythmicContrast: 0.6232264542486519
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+content: []
+github: true
